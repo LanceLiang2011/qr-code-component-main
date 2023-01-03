@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -28,7 +29,7 @@ body {
 }
 
 .card .text {
-  padding: 0 2.8rem;
+  padding: 0 1.8rem;
 }
 
 .card h2 {
